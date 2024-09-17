@@ -1,6 +1,6 @@
 export default function Lab1(){
     return(
-        <div id="Lab1">
+        <div id="wd-lab1">
         <h2> Lab1 </h2>
             <h3> HTML EXAMPLES </h3>
             <h4>Heading Tags</h4>

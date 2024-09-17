@@ -1,4 +1,4 @@
-export default function Lab1(){
+export default function Lab2(){
     return(
         <div>
             <h2>
